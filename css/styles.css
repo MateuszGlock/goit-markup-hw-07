@@ -25,6 +25,7 @@ body {
 }
 .container {
   width: 1200px;
+  margin: 0 auto;
   display: flex;
 }
 .primary-part__container-vertical {
@@ -319,11 +320,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-.container-box {
-  display: flex;
 
-  justify-content: center;
-}
 .occupation__text {
   margin: 0px;
   margin-bottom: 50px;
